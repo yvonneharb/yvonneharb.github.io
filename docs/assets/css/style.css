@@ -2,9 +2,16 @@ h1 {
     text-align: center;
     margin: 40px;
 }
-.container-image{
+
+.container{
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+.container-image {
     text-align: center;
 }
-.container-image img{
+
+.container-image img {
     width: 100%;
 }
